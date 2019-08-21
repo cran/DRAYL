@@ -1,0 +1,8 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("RConics","adjoint")
+importFrom("pracma","integral")
+importFrom("rmutil","int")
+importFrom("stats","integrate")
+importFrom("cubature","pcubature")
+importFrom("pracma","quad2d")
+

@@ -1,0 +1,11 @@
+8987ec9b9eb6a6dbb821fe8cc72ba6fa *DESCRIPTION
+e0aa8302829fe10ef205491a994e485b *NAMESPACE
+5cf53a101eb8646e0191e6b4062e148a *R/DRAYL.R
+48b5d2c2cf5475bd1daa0590b66c6b12 *man/alphamatrix.Rd
+97e44957df3a92dc53333cb48d0a8332 *man/btcol.Rd
+e221f31e47a1e771a78e221c002c3b26 *man/btprod.Rd
+22e07a97e2017ea26881e45478d141c6 *man/drayl3D.Rd
+62fc4df24745f70bd06027822af6c433 *man/drayl4D.Rd
+8b273aa113ffafdd3b8db966f60b5adf *man/drayl_int3D.Rd
+e92f1925a1835fcef84abbae5f1b49a2 *man/drayl_int4D.Rd
+c979a20901cf83b604eae8d0e3e3fdc3 *man/zerooneoutput.Rd
